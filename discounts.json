@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-21",
+  "discounts": [
+    {
+      "id": "1",
+      "merchantName": "Mehmet Usta Lokantası",
+      "category": "Yeme-İçme",
+      "discountText": "%20 indirim",
+      "address": "Cumhuriyet Mah. İnönü Cad. No:14, Bandırma",
+      "conditions": "Öğle menüsünde geçerli, içecekler hariç.",
+      "note": "Hafta içi 12:00 - 14:00 arası."
+    },
+    {
+      "id": "2",
+      "merchantName": "Style Kuaför",
+      "category": "Kuaför",
+      "discountText": "%25 indirim",
+      "address": "Atatürk Cad. No:42, Bandırma",
+      "conditions": "Saç kesimi ve sakal tıraşında.",
+      "note": null
+    },
+    {
+      "id": "3",
+      "merchantName": "Akademi Kırtasiye",
+      "category": "Kırtasiye",
+      "discountText": "%15 indirim",
+      "address": "17 Eylül Mah. Üniversite Cad. No:8, Bandırma",
+      "conditions": "Tüm kitap ve defterlerde. Fotokopi hizmetinde geçerli değildir.",
+      "note": "Dönem başında ekstra kampanyalar olabilir."
+    },
+    {
+      "id": "4",
+      "merchantName": "FitGym Bandırma",
+      "category": "Spor",
+      "discountText": "%30 indirim",
+      "address": "Paşabayır Mah. Spor Cad. No:5, Bandırma",
+      "conditions": "Aylık ve 3 aylık üyeliklerde.",
+      "note": "Pazartesi - Cumartesi 07:00 - 23:00."
+    },
+    {
+      "id": "5",
+      "merchantName": "Sinema Park",
+      "category": "Eğlence",
+      "discountText": "%40 indirim",
+      "address": "AVM içi, Bandırma",
+      "conditions": "Hafta içi tüm seanslarda. Hafta sonu geçerli değildir.",
+      "note": null
+    },
+    {
+      "id": "6",
+      "merchantName": "Sağlık Eczanesi",
+      "category": "Sağlık",
+      "discountText": "%10 indirim",
+      "address": "İstiklal Cad. No:33, Bandırma",
+      "conditions": "Reçetesiz ürünlerde. İlaçlarda yasal sebeplerle uygulanmaz.",
+      "note": null
+    }
+  ]
+}
