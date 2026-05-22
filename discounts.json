@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21",
+  "updatedAt": "2026-05-22",
   "discounts": [
     {
       "id": "1",
@@ -18,7 +18,12 @@
       "discountText": "%25 indirim",
       "address": "Atatürk Cad. No:42, Bandırma",
       "conditions": "Saç kesimi ve sakal tıraşında.",
-      "note": null
+      "note": null,
+      "items": [
+        { "name": "Saç kesimi", "discount": "%30" },
+        { "name": "Sakal tıraşı", "discount": "%20" },
+        { "name": "Saç boyama", "discount": "%15" }
+      ]
     },
     {
       "id": "3",
@@ -36,7 +41,11 @@
       "discountText": "%30 indirim",
       "address": "Paşabayır Mah. Spor Cad. No:5, Bandırma",
       "conditions": "Aylık ve 3 aylık üyeliklerde.",
-      "note": "Pazartesi - Cumartesi 07:00 - 23:00."
+      "note": "Pazartesi - Cumartesi 07:00 - 23:00.",
+      "items": [
+        { "name": "Aylık üyelik", "discount": "%30" },
+        { "name": "3 aylık üyelik", "discount": "%40" }
+      ]
     },
     {
       "id": "5",
