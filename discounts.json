@@ -1,6 +1,7 @@
 {
   "version": 1,
   "updatedAt": "2026-05-22",
+  "featured": ["1", "4", "5"],
   "discounts": [
     {
       "id": "1",
@@ -9,7 +10,8 @@
       "discountText": "%20 indirim",
       "address": "Cumhuriyet Mah. İnönü Cad. No:14, Bandırma",
       "conditions": "Öğle menüsünde geçerli, içecekler hariç.",
-      "note": "Hafta içi 12:00 - 14:00 arası."
+      "note": "Hafta içi 12:00 - 14:00 arası.",
+      "offer": { "type": "gift", "text": "Yemek yanında çay bedava" }
     },
     {
       "id": "2",
@@ -54,7 +56,8 @@
       "discountText": "%40 indirim",
       "address": "AVM içi, Bandırma",
       "conditions": "Hafta içi tüm seanslarda. Hafta sonu geçerli değildir.",
-      "note": null
+      "note": null,
+      "offer": { "type": "bogo", "text": "1 Alana 1 Bilet Bedava" }
     },
     {
       "id": "6",
