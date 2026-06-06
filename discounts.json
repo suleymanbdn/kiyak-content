@@ -2,6 +2,22 @@
   "version": 1,
   "updatedAt": "2026-05-22",
   "featured": ["1", "4", "5"],
+  "rewards": [
+    {
+      "id": "rw1",
+      "threshold": 100,
+      "merchantName": "Mehmet Usta Lokantası",
+      "reward": "Bir bardak çay bizden",
+      "note": "Yemek siparişinde geçerli."
+    },
+    {
+      "id": "rw2",
+      "threshold": 500,
+      "merchantName": "Style Kuaför",
+      "reward": "Ücretsiz saç yıkama",
+      "note": "Kesim hizmetiyle birlikte."
+    }
+  ],
   "discounts": [
     {
       "id": "1",
