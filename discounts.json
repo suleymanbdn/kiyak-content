@@ -50,7 +50,8 @@
       "discountText": "%15 indirim",
       "address": "17 Eylül Mah. Üniversite Cad. No:8, Bandırma",
       "conditions": "Tüm kitap ve defterlerde. Fotokopi hizmetinde geçerli değildir.",
-      "note": "Dönem başında ekstra kampanyalar olabilir."
+      "note": "Dönem başında ekstra kampanyalar olabilir.",
+      "addedAt": "2026-06-01"
     },
     {
       "id": "4",
@@ -82,7 +83,8 @@
       "discountText": "%10 indirim",
       "address": "İstiklal Cad. No:33, Bandırma",
       "conditions": "Reçetesiz ürünlerde. İlaçlarda yasal sebeplerle uygulanmaz.",
-      "note": null
+      "note": null,
+      "addedAt": "2026-06-03"
     }
   ]
 }
